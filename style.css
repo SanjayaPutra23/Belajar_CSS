@@ -1,0 +1,29 @@
+h2 {
+    color: red;
+}
+
+/* Struktur Dasar CSS */
+/* selektor {
+    properti: nilai;
+} */
+
+/* Selector Untuk Class */
+.kotak {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+/* Selector Untuk ID */
+#header {
+    background-color: black;
+    color: white;
+}
+
+/* Box Model */
+div {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 20px;
+}
